@@ -1,4 +1,4 @@
-#Please intall carefully of of these packages in your R system
+#Please intall carefully of these packages in your R system
 # 2020/09
 
 install.packages("caret")
